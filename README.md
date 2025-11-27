@@ -10,7 +10,7 @@ This repository hosts my academic and technical publications so they are easily 
 - **Type:** Undergraduate capstone project (Bachelor of Engineering)
 - **Journal:** *International Journal of Merging Technology and Advanced Research in Computing (IJMTARC)*
 - **Details:** Volume 8, Issue 22, Jan–Mar 2020  
-- **PDF:** 
+- **PDF:** [`Face-Detection-System-with-Face-Recognition-IJMTARC-2020.pdf`](https://github.com/esmael-devv/Publication/blob/main/Face-Detection-System-with-Face-Recognition-2020-IJMTARC-200311.pdf)
 
 ### Abstract (short version)
 
